@@ -1,5 +1,6 @@
 $(".support").tooltip({title:"赞",placement:"bottom",container:"body"});
 $(".datetime").tooltip({placement:"bottom",container:"body"});
+$(".view").tooltip({title:"链接详情",placement:"bottom",container:"body"});
 
 
 
